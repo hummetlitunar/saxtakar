@@ -1,0 +1,23 @@
+[
+  {
+    "id": "animals",
+    "name": "Heyvanlar",
+    "icon": "🦁",
+    "url": "https://raw.githubusercontent.com/USER/REPO/main/animals.json",
+    "wordCount": 10
+  },
+  {
+    "id": "foods",
+    "name": "Yeməklər",
+    "icon": "🍕",
+    "url": "https://raw.githubusercontent.com/USER/REPO/main/foods.json",
+    "wordCount": 10
+  },
+  {
+    "id": "countries",
+    "name": "Ölkələr",
+    "icon": "🌍",
+    "url": "https://raw.githubusercontent.com/USER/REPO/main/countries.json",
+    "wordCount": 8
+  }
+]
