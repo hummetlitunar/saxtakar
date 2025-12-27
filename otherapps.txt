@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "id": "com.hummetlitunar.tunartabu",
+      "name": "Tabu Azərbaycan",
+      "description": "Əyləncəli tabu oyunu",
+      "icon_url": "https://play-lh.googleusercontent.com/-VaqAKUxqm1eMIwcnDHpOJ1sfqHG_fWiKwenk6LNYlQXVbw364_R2l6H_KhgmsuX2Lg=w480-h960-rw",
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.tunartabu"
+    }
+  ]
+}
