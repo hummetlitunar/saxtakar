@@ -7,10 +7,10 @@
     "wordCount": 10
   },
   {
-    "id": "foods",
-    "name": "Yeməklər",
+    "id": "date",
+    "name": "Gündəlik",
     "icon": "🍕",
-    "url": "https://raw.githubusercontent.com/USER/REPO/main/foods.json",
+    "url": "https://raw.githubusercontent.com/hummetlitunar/saxtakar/refs/heads/main/gundelik.json",
     "wordCount": 10
   },
   {
