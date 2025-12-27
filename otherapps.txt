@@ -6,6 +6,27 @@
       "description": "Əyləncəli tabu oyunu",
       "icon_url": "https://play-lh.googleusercontent.com/-VaqAKUxqm1eMIwcnDHpOJ1sfqHG_fWiKwenk6LNYlQXVbw364_R2l6H_KhgmsuX2Lg=w480-h960-rw",
       "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.tunartabu"
-    }
+    },
+        {
+      "id": "com.hummetlitunar.stickeraquarium",
+      "name": "Sticker Aquarium",
+      "description": "Hər halınızı xarakterizə edən stickerlər",
+      "icon_url": "https://play-lh.googleusercontent.com/and_0zRBQDQEvjnmsNxB7Z6mEW_NuxPP6kOze81f9QCOqYPXtAQqXzPUnYtRXp-jAg=w480-h960-rw",
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.stickeraquarium"
+    },
+        {
+      "id": "com.hummetlitunar.xbt",
+      "name": "XBT-10",
+      "description": "Həkimlər üçün XBT proqramı",
+      "icon_url": "https://play-lh.googleusercontent.com/JV8vMrlV0BVruXqf5LPIRXH8mhqCY6a18HP2ZykRg8Ejm4L5saO26Og0LdOIAx9zHRey=w480-h960-rw",
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.xbt10"
+    },
+        {
+      "id": "com.hummetlitunar.rezidentunar",
+      "name": "RezidenTunar",
+      "description": "Tibb tələbələri üçün Rezidenturaya hazırlıq proqramı",
+      "icon_url": "https://play-lh.googleusercontent.com/H6N3DEcyp3qvNwGwuHSiVE87WP9DNDDsu_7HTBL1bCBtIcpbUXBc3cZlDPeFTZUrBA=w480-h960-rw",
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.hummetlitunar.rezidentunar"
+    },
   ]
 }
