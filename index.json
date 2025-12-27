@@ -19,5 +19,17 @@
     "icon": "🌍",
     "url": "https://raw.githubusercontent.com/USER/REPO/main/countries.json",
     "wordCount": 8
+  },
+  {
+    "id": "arbeite",
+    "name": "Peşələr",
+    "icon": "🌍",
+    "url": "https://raw.githubusercontent.com/hummetlitunar/saxtakar/refs/heads/main/peseler.json",
+    "wordCount": 8
   }
+
+
+
+
+ 
 ]
