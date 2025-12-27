@@ -40,6 +40,34 @@
     "icon": "🌍",
     "url": "https://raw.githubusercontent.com/hummetlitunar/saxtakar/refs/heads/main/tibb.json",
     "wordCount": 8
+  },
+  {
+    "id": "musiqi",
+    "name": "Musiqi",
+    "icon": "🌍",
+    "url": "https://raw.githubusercontent.com/hummetlitunar/saxtakar/refs/heads/main/musiqi.json",
+    "wordCount": 8
+  },
+  {
+    "id": "filmler",
+    "name": "Filmlər",
+    "icon": "🌍",
+    "url": "https://raw.githubusercontent.com/hummetlitunar/saxtakar/refs/heads/main/filmler.json",
+    "wordCount": 8
+  },
+  {
+    "id": "edebiyyat",
+    "name": "Ədəbiyyat",
+    "icon": "🌍",
+    "url": "https://raw.githubusercontent.com/hummetlitunar/saxtakar/refs/heads/main/edebiyyat.json",
+    "wordCount": 8
+  },
+  {
+    "id": "edebiyyat",
+    "name": "Ədəbiyyat",
+    "icon": "🌍",
+    "url": "https://raw.githubusercontent.com/hummetlitunar/saxtakar/refs/heads/main/huquq.json",
+    "wordCount": 8
   }
 
 
